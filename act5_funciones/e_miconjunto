@@ -1,0 +1,7 @@
+def mi_conjunto():
+    print("")
+hermanos=("damian","zulia","joselyn")
+print(hermanos)
+for josy in hermanos:
+    print(josy)
+        # LLAMAR A LA FUNCION ♥ 
